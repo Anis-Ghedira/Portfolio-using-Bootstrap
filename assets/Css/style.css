@@ -33,6 +33,7 @@ nav {
 /* main section */
 .main {
   background-color: #027b8d;
+  overflow: hidden;
   width: 100%;
   height: 100vh;
 }
